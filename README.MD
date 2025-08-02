@@ -214,12 +214,7 @@ The success of this project demonstrates the critical importance of thorough exp
 
 The strong correlation between digit count and spam messages (0.8436) was the most significant finding, highlighting how numeric content can be a powerful spam indicator.
 
-### Future Work
 
-- Experiment with fewer training epochs to optimize efficiency
-- Explore ensemble methods combining both architectures
-- Investigate additional text-based features (n-grams, TF-IDF)
-- Test performance on larger, more diverse datasets
 
 ## Citation
 
