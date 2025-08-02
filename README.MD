@@ -1,7 +1,7 @@
 # SMS Spam Collection Deep Learning
 
 - **GitHub Repo**: https://github.com/GHeart01/SMS-Spam-Collection-Deep-Learning
-- **YouTube**: [Add link when available]
+- **YouTube**: https://youtu.be/89AyAEA3wj8
 
 ## Table of Contents
 - [Description](#description)
